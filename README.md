@@ -1,8 +1,9 @@
 # OnTheBlock
 Minority Business discovery application
-Privacy Policy
 
-Effective Date: [Insert Date]
+# Privacy Policy
+
+Effective Date: june 15th, 2023
 
 Thank you for using On The Block! This Privacy Policy outlines how we collect, use, disclose, and protect your information, including your location data and notifications, when you use our mobile application "On The Block". Your privacy is important to us, and we are committed to safeguarding your personal information. By accessing or using our App, you agree to the terms of this Privacy Policy.
 
@@ -74,3 +75,6 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 By using our App, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our App.
 
+
+# Copy Right
+Copyright  2024 On The Block. All rights reserved. This iOS application and its contents are protected by copyright law. Any unauthorized use, reproduction or distribution of this application or its contents, in whole or in part, is strictly prohibited. This includes, but is not limited to, copying, modifying, distributing, displaying, transmitting, or using any content within the application without the written permission of On The Block. The names, logos, and other graphics and content used in this application are trademarks or registered trademarks of On The Block. Unauthorized use or reproduction of these trademarks or any other intellectual property owned by On The Block is strictly prohibited. By using this application, you acknowledge that you have read and agree to the terms and conditions of the End User License Agreement (EULA) and Privacy Policy, which are available within the application. Any violation of these terms and conditions may result in legal action.
